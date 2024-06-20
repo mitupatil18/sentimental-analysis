@@ -20,6 +20,9 @@ st.write("""
     Welcome to the Movie Review Sentiment Analyzer! 
     Enter a movie review below, and we'll predict whether it's positive or negative.
 """)
+st.write("""
+    Make sure to give a proper review of the movie that provides a detailed description of your opinions
+""")
 
 # Create a sidebar with example reviews
 st.sidebar.header("Example Reviews")
