@@ -62,7 +62,7 @@ st.markdown("""
         }
     </style>
     <div class="footer">
-    Developed with ❤️ by <a href="https://github.com/mitupatil18">Mitali Patil</a>
-</div>
+        Developed with ❤️ by Mitali Patil
+    </div>
 
 """, unsafe_allow_html=True)
